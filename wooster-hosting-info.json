@@ -1,0 +1,21 @@
+{
+	"name" : "Hébergement Wooster",
+	"slug" : "wooster-hosting",
+	"author" : "<a href='https://wooster.fr/'>Wooster</a>",
+	"author_profile" : "https://profiles.wordpress.org/guillaumedub",
+	"version" : "1.0",
+	"download_url" : "",
+	"requires" : "5.0",
+	"tested" : "6.5.4",
+	"requires_php" : "5.6",
+	"last_updated" : "2024-06-07 10:00:00",
+	"sections" : {
+		"description" : "Retrouvez toutes les informations de votre hébergement Wooster directement dans votre tableau de bord WordPress.",
+		"installation" : "Activez le plugin et vous trouverez votre tableau de bord d'hébergement dans le menu de WordPress.",
+		"changelog" : "<h4>v1.0 released on June 7th, 2024</h4><ul><li>Initial release of Hosting Wooster</li></ul>"
+	},
+	"banners" : {
+		"low" : "",
+		"high" : ""
+	}
+}
